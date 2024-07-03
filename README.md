@@ -1,4 +1,3 @@
-# ncrypt
-This is the entry of the nCrypt 2020 Creative event 
+# Social Initiative Program
 
-This project is made by team XINO
+This is the website for the Social Initiative program by the students of DPS Rohini
